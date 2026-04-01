@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+안녕하세요 집가고 싶어요.
+살려주세요 ㅠㅠ
+
 <!--
 **hosungsin/hosungsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ㅋ
 - 😄 Pronouns: 으어
 - ⚡ Fun fact: 웃김
--->
+--
